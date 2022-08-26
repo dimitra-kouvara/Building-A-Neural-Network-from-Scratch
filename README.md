@@ -9,11 +9,10 @@ Prerequisites
 ----------------------
 Running this project on the local system requires the following packages to be installed :
 
-numpy
+- numpy
+- matplotlib
 
-matplotlib
-
-pandas
+- pandas
 
 time
 

@@ -11,20 +11,13 @@ Running this project on the local system requires the following packages to be i
 
 - numpy
 - matplotlib
-
 - pandas
-
-time
-
-scipy
-
-seaborn
-
-sklearn
-
-imblearn
-
-warnings
+- time
+- scipy
+- seaborn
+- sklearn
+- imblearn
+- warnings
 
 The user can also use Google Colab in a Web Browser without needing to install the mentioned packages.
 

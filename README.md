@@ -19,6 +19,8 @@ Running this project on the local system requires the following packages to be i
 - imblearn
 - warnings
 
+Instructions on How to Run script
+---------------------------------
 The user can also use Google Colab in a Web Browser without needing to install the mentioned packages.
 
 This project is implemented as a python script. The user just need to install the mentioned-above libraries on his/her local system or on Google Colab and execute main.py. 

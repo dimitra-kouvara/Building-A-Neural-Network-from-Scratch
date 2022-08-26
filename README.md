@@ -29,8 +29,6 @@ warnings
 
 The user can also use Google Colab in a Web Browser without needing to install the mentioned packages.
 
-Usage
-
 This project is implemented as a python script. The user just need to install the mentioned-above libraries on his/her local system or on Google Colab and execute main.py. 
 Note that the dataset for the training and validation data should be placed in the same directory as the python scripts.
 The function of python script is properly explained with the help of comments.

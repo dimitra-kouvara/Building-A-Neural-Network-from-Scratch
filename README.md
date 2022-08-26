@@ -34,4 +34,5 @@ Note that the dataset for the training and validation data should be placed in t
 The function of python script is properly explained with the help of comments.
 
 The user can change the parameters of the Neural Network Algorithm from the config.py
-Executing the main.py will automatically start the Neural Network Model training
+
+Executing the main.py will automatically start the Neural Network Model training.
